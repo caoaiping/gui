@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git is a good version control system compared with SVN.
 Start to learn how to use git.
-Merging test is going on.
+Merging test is going on.But there is something wrong.
